@@ -1,0 +1,650 @@
+{
+  "contacts": [
+    {
+      "id": "28:935",
+      "name": "Ana Garcia",
+      "email": "ana.garcia@hirayafoods.ph",
+      "company": "Hiraya Foods",
+      "status": "Lead",
+      "owner": "Paolo Mendoza",
+      "initials": "PM",
+      "followUpDate": "Today · 13 Oct",
+      "followUpNote": "Product demo",
+      "selected": true,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:935",
+        "mainComponentId": "28:909"
+      }
+    },
+    {
+      "id": "28:960",
+      "name": "Bea Villanueva",
+      "email": "bea.v@lakbaytravel.ph",
+      "company": "Lakbay Travel",
+      "status": "Active",
+      "owner": "Andrea Reyes",
+      "initials": "AR",
+      "followUpDate": "Tomorrow · 14 Oct",
+      "followUpNote": "Proposal review",
+      "selected": true,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:960",
+        "mainComponentId": "28:909"
+      }
+    },
+    {
+      "id": "28:984",
+      "name": "Carlo Aquino",
+      "email": "carlo.aquino@luntian.ph",
+      "company": "Luntian Energy",
+      "status": "Customer",
+      "owner": "Maria Santos",
+      "initials": "MS",
+      "followUpDate": "16 Oct 2026",
+      "followUpNote": "Renewal check-in",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:984",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1008",
+      "name": "Denise Ramos",
+      "email": "denise.ramos@malaya.ph",
+      "company": "Malaya Retail",
+      "status": "Lead",
+      "owner": "Juan Dela Cruz",
+      "initials": "JD",
+      "followUpDate": "Overdue · 12 Oct",
+      "followUpNote": "Call to reconnect",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1008",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1032",
+      "name": "Enzo Bautista",
+      "email": "enzo@taladigital.ph",
+      "company": "Tala Digital",
+      "status": "Active",
+      "owner": "Paolo Mendoza",
+      "initials": "PM",
+      "followUpDate": "15 Oct 2026",
+      "followUpNote": "Share pricing",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1032",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1055",
+      "name": "Isabel Flores",
+      "email": "isabel@harayadesign.ph",
+      "company": "Haraya Design",
+      "status": "Lead",
+      "owner": "Bea Villanueva",
+      "initials": "BV",
+      "followUpDate": "Today · 13 Oct",
+      "followUpNote": "Discovery call",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1055",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1079",
+      "name": "Juan Dela Cruz",
+      "email": "juan@islalogistics.ph",
+      "company": "Isla Logistics",
+      "status": "Active",
+      "owner": "Andrea Reyes",
+      "initials": "AR",
+      "followUpDate": "Tomorrow · 14 Oct",
+      "followUpNote": "Contract discussion",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1079",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1102",
+      "name": "Maria Santos",
+      "email": "maria.santos@bayanihan.ph",
+      "company": "Bayanihan Technologies",
+      "status": "Customer",
+      "owner": "Juan Dela Cruz",
+      "initials": "JD",
+      "followUpDate": "16 Oct 2026",
+      "followUpNote": "Quarterly check-in",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1102",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1126",
+      "name": "Nico Reyes",
+      "email": "nico@amihan.ph",
+      "company": "Amihan Manufacturing",
+      "status": "Lead",
+      "owner": "Maria Santos",
+      "initials": "MS",
+      "followUpDate": "Overdue · 11 Oct",
+      "followUpNote": "Send introduction",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1126",
+        "mainComponentId": "28:861"
+      }
+    },
+    {
+      "id": "28:1150",
+      "name": "Sofia Mercado",
+      "email": "sofia@kapwahealth.ph",
+      "company": "Kapwa Health",
+      "status": "Inactive",
+      "owner": "Bea Villanueva",
+      "initials": "BV",
+      "followUpDate": "No follow-up",
+      "followUpNote": "Add a follow-up",
+      "selected": false,
+      "source": {
+        "frameId": "24:819",
+        "nodeId": "28:1150",
+        "mainComponentId": "28:861"
+      }
+    }
+  ],
+  "deals": [
+    {
+      "id": "38:1178",
+      "title": "Website inquiry",
+      "company": "Hiraya Foods",
+      "amount": 180000,
+      "owner": "Paolo M.",
+      "initials": "PM",
+      "stage": "New",
+      "followUp": "Due today",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1178",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1199",
+      "title": "Digital audit",
+      "company": "Tala Digital",
+      "amount": 240000,
+      "owner": "Juan D.",
+      "initials": "JD",
+      "stage": "New",
+      "followUp": "15 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1199",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1231",
+      "title": "Solar expansion",
+      "company": "Luntian Energy",
+      "amount": 350000,
+      "owner": "Bea V.",
+      "initials": "BV",
+      "stage": "Qualified",
+      "followUp": "16 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1231",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1253",
+      "title": "Travel CRM",
+      "company": "Lakbay Travel",
+      "amount": 280000,
+      "owner": "Andrea R.",
+      "initials": "AR",
+      "stage": "Qualified",
+      "followUp": "Tomorrow",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1253",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1284",
+      "title": "Annual renewal",
+      "company": "Bayanihan Technologies",
+      "amount": 480000,
+      "owner": "Maria S.",
+      "initials": "MS",
+      "stage": "Proposal",
+      "followUp": "Due today",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1284",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1305",
+      "title": "Brand refresh",
+      "company": "Haraya Design",
+      "amount": 360000,
+      "owner": "Paolo M.",
+      "initials": "PM",
+      "stage": "Proposal",
+      "followUp": "Overdue",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1305",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1337",
+      "title": "Fleet rollout",
+      "company": "Isla Logistics",
+      "amount": 620000,
+      "owner": "Juan D.",
+      "initials": "JD",
+      "stage": "Negotiation",
+      "followUp": "Tomorrow",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1337",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1358",
+      "title": "ERP upgrade",
+      "company": "Amihan Manufacturing",
+      "amount": 500000,
+      "owner": "Andrea R.",
+      "initials": "AR",
+      "stage": "Negotiation",
+      "followUp": "17 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1358",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1390",
+      "title": "Software renewal",
+      "company": "Bayanihan Technologies",
+      "amount": 480000,
+      "owner": "Maria S.",
+      "initials": "MS",
+      "stage": "Won",
+      "followUp": "Won · 12 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1390",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1412",
+      "title": "Clinic portal",
+      "company": "Kapwa Health",
+      "amount": 550000,
+      "owner": "Bea V.",
+      "initials": "BV",
+      "stage": "Won",
+      "followUp": "Won · 10 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1412",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1444",
+      "title": "Storefront rollout",
+      "company": "Malaya Retail",
+      "amount": 210000,
+      "owner": "Juan D.",
+      "initials": "JD",
+      "stage": "Lost",
+      "followUp": "Lost · 11 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1444",
+        "mainComponentId": "37:1151"
+      }
+    },
+    {
+      "id": "38:1466",
+      "title": "Website rebuild",
+      "company": "Habagat Commerce",
+      "amount": 300000,
+      "owner": "Paolo M.",
+      "initials": "PM",
+      "stage": "Lost",
+      "followUp": "Lost · 8 Oct",
+      "source": {
+        "frameId": "35:1110",
+        "nodeId": "38:1466",
+        "mainComponentId": "37:1151"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "46:1509",
+      "title": "Call Denise Ramos",
+      "context": "Call · Malaya Retail · Denise Ramos",
+      "dueDate": "12 Oct · 10:00 AM",
+      "dueStatus": "1 day overdue",
+      "owner": "Juan Dela Cruz",
+      "initials": "JD",
+      "priority": "High priority",
+      "group": "Overdue",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1509",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1532",
+      "title": "Send introduction to Nico Reyes",
+      "context": "Email · Amihan Manufacturing · Nico Reyes",
+      "dueDate": "11 Oct · 3:00 PM",
+      "dueStatus": "2 days overdue",
+      "owner": "Maria Santos",
+      "initials": "MS",
+      "priority": "High priority",
+      "group": "Overdue",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1532",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1555",
+      "title": "Run a product demo for Ana Garcia",
+      "context": "Demo · Hiraya Foods · Ana Garcia",
+      "dueDate": "10:30 AM",
+      "dueStatus": "Today · 13 Oct",
+      "owner": "Paolo Mendoza",
+      "initials": "PM",
+      "priority": "High priority",
+      "group": "Today",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1555",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1578",
+      "title": "Call Isabel Flores",
+      "context": "Call · Haraya Design · Isabel Flores",
+      "dueDate": "11:00 AM",
+      "dueStatus": "Today · 13 Oct",
+      "owner": "Bea Villanueva",
+      "initials": "BV",
+      "priority": "Normal priority",
+      "group": "Today",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1578",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1602",
+      "title": "Review annual renewal with Maria Santos",
+      "context": "Meeting · Bayanihan Technologies · Maria Santos",
+      "dueDate": "1:30 PM",
+      "dueStatus": "Today · 13 Oct",
+      "owner": "Maria Santos",
+      "initials": "MS",
+      "priority": "High priority",
+      "group": "Today",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1602",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1625",
+      "title": "Send pricing to Enzo Bautista",
+      "context": "Email · Tala Digital · Enzo Bautista",
+      "dueDate": "2:00 PM",
+      "dueStatus": "Today · 13 Oct",
+      "owner": "Paolo Mendoza",
+      "initials": "PM",
+      "priority": "Normal priority",
+      "group": "Today",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1625",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1649",
+      "title": "Check shipment needs with Juan Dela Cruz",
+      "context": "Call · Isla Logistics · Juan Dela Cruz",
+      "dueDate": "3:00 PM",
+      "dueStatus": "Today · 13 Oct",
+      "owner": "Andrea Reyes",
+      "initials": "AR",
+      "priority": "Normal priority",
+      "group": "Today",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1649",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1673",
+      "title": "Prepare a quote for Carlo Aquino",
+      "context": "Quote · Luntian Energy · Carlo Aquino",
+      "dueDate": "4:00 PM",
+      "dueStatus": "Today · 13 Oct",
+      "owner": "Andrea Reyes",
+      "initials": "AR",
+      "priority": "Normal priority",
+      "group": "Today",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1673",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1697",
+      "title": "Review proposal with Bea Villanueva",
+      "context": "Meeting · Lakbay Travel · Bea Villanueva",
+      "dueDate": "14 Oct · 10:00 AM",
+      "dueStatus": "Tomorrow",
+      "owner": "Andrea Reyes",
+      "initials": "AR",
+      "priority": "High priority",
+      "group": "Upcoming",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1697",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1720",
+      "title": "Discuss contract with Juan Dela Cruz",
+      "context": "Call · Isla Logistics · Juan Dela Cruz",
+      "dueDate": "14 Oct · 2:00 PM",
+      "dueStatus": "Tomorrow",
+      "owner": "Andrea Reyes",
+      "initials": "AR",
+      "priority": "Normal priority",
+      "group": "Upcoming",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1720",
+        "mainComponentId": "45:1487"
+      }
+    },
+    {
+      "id": "46:1744",
+      "title": "Check renewal with Maria Santos",
+      "context": "Call · Bayanihan Technologies · Maria Santos",
+      "dueDate": "16 Oct · 10:00 AM",
+      "dueStatus": "In 3 days",
+      "owner": "Juan Dela Cruz",
+      "initials": "JD",
+      "priority": "Low priority",
+      "group": "Upcoming",
+      "completed": false,
+      "source": {
+        "frameId": "43:1445",
+        "nodeId": "46:1744",
+        "mainComponentId": "45:1487"
+      }
+    }
+  ],
+  "notes": [
+    {
+      "id": "53:1820",
+      "contactId": "28:1102",
+      "author": "Juan Dela Cruz",
+      "initials": "JD",
+      "date": "12 Oct · 3:00 PM",
+      "text": "Maria is evaluating a 12-month renewal for 80 seats. Send the revised proposal by 14 Oct. She prefers email updates and a short call after 1 PM.",
+      "pinned": true
+    }
+  ],
+  "timeline": [
+    {
+      "id": "54:1848",
+      "contactId": "28:1102",
+      "title": "Follow-up scheduled",
+      "when": "Today · 9:15 AM · Juan Dela Cruz",
+      "details": "Annual renewal review set for today at 1:30 PM.",
+      "initials": "JD"
+    },
+    {
+      "id": "54:1857",
+      "contactId": "28:1102",
+      "title": "Note added",
+      "when": "12 Oct · 3:00 PM · Juan Dela Cruz",
+      "details": "Proposal deadline and communication preferences recorded.",
+      "initials": "JD"
+    },
+    {
+      "id": "54:1866",
+      "contactId": "28:1102",
+      "title": "Deal won",
+      "when": "12 Oct · 9:42 AM · Maria S.",
+      "details": "Software renewal closed at ₱480,000.",
+      "initials": "MS"
+    },
+    {
+      "id": "54:1875",
+      "contactId": "28:1102",
+      "title": "Proposal sent",
+      "when": "10 Oct · 4:30 PM · Maria S.",
+      "details": "Annual renewal proposal sent for ₱480,000.",
+      "initials": "MS"
+    }
+  ],
+  "profile": {
+    "contactId": "28:1102",
+    "role": "Procurement manager",
+    "phone": "+63 917 555 0142",
+    "location": "Makati City, Philippines",
+    "leadSource": "Referral",
+    "customerSince": "12 February 2026",
+    "lastContact": "12 October 2026",
+    "tags": [
+      "Decision-maker",
+      "Email preferred"
+    ],
+    "relatedDealIds": [
+      "38:1284",
+      "38:1390"
+    ]
+  },
+  "leaderboard": [
+    {
+      "name": "Juan Dela Cruz",
+      "initials": "JD",
+      "won": 14,
+      "revenue": 3120000
+    },
+    {
+      "name": "Maria Santos",
+      "initials": "MS",
+      "won": 11,
+      "revenue": 2470000
+    },
+    {
+      "name": "Paolo Mendoza",
+      "initials": "PM",
+      "won": 8,
+      "revenue": 1830000
+    },
+    {
+      "name": "Bea Villanueva",
+      "initials": "BV",
+      "won": 6,
+      "revenue": 1030000
+    }
+  ],
+  "activities": [
+    {
+      "title": "Maria Santos won a deal",
+      "detail": "Bayanihan Technologies · ₱480,000 · 9:42 AM",
+      "initials": "MS"
+    },
+    {
+      "title": "Juan Dela Cruz completed a follow-up",
+      "detail": "Isla Logistics · Discovery call · 9:15 AM",
+      "initials": "JD"
+    },
+    {
+      "title": "Paolo Mendoza added a new lead",
+      "detail": "Hiraya Foods · Ana Garcia · 8:50 AM",
+      "initials": "PM"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "sourceFile": "4qu6ubxjuJMPJhA13IgVsL",
+  "assets": [
+    {
+      "nodeId": "7:85",
+      "name": "Icon / Dashboard",
+      "width": 20,
+      "height": 20,
+      "path": "icons/dashboard.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "7:89",
+      "name": "Icon / Contacts",
+      "width": 20,
+      "height": 20,
+      "path": "icons/contacts.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "7:93",
+      "name": "Icon / Deals",
+      "width": 20,
+      "height": 20,
+      "path": "icons/deals.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "7:97",
+      "name": "Icon / Tasks",
+      "width": 20,
+      "height": 20,
+      "path": "icons/tasks.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "14:430",
+      "name": "Search",
+      "width": 20,
+      "height": 20,
+      "path": "icons/search.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "14:436",
+      "name": "Notifications",
+      "width": 20,
+      "height": 20,
+      "path": "icons/notifications.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "I14:363;7:187",
+      "name": "Icon / Dashboard",
+      "width": 20,
+      "height": 20,
+      "path": "icons/dashboard-screen-instance.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "I38:1178;37:1158",
+      "name": "Drag handle / Move deal",
+      "width": 16,
+      "height": 16,
+      "path": "icons/drag-handle.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted"
+    },
+    {
+      "nodeId": "15:594",
+      "name": "Lead sources / Donut chart",
+      "width": 192,
+      "height": 192,
+      "path": "charts/lead-sources-donut.svg",
+      "method": "Figma exportAsync SVG_STRING",
+      "evidence": "directly extracted",
+      "usage": "Exact reusable static chart artwork; data-driven behavior needs programming"
+    }
+  ],
+  "note": "SVG exports preserve Figma root dimensions and literal colors. Full screen PNGs are references only and live outside assets."
+}
