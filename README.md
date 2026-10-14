@@ -27,7 +27,7 @@ Global search, help, team and activity dialogs are available from the workspace 
 
 The source is [the CRM Figma file](https://www.figma.com/design/4qu6ubxjuJMPJhA13IgVsL/Untitled). The parent folder contains `crm-design-spec.md`, `design-tokens.json`, `mock-data.json`, exported assets and extraction references.
 
-The seed contains the visible 10 contacts, 12 deals and 11 tasks, with source IDs preserved. Figma's aggregate figures (including 1,248 contacts, dashboard KPIs and 18 completed tasks) describe the source snapshot; unseen records have not been invented. Empty sample pages explain the missing records. Dashboard aggregates are historical design content, not recomputed analytics for the local records.
+The seed contains the visible 10 contacts, 12 deals and 11 tasks, with source IDs preserved. Dashboard aggregates describe the historical Figma snapshot; unseen records have not been invented. Contacts pagination and saved-view counts, and Tasks completed counts, reflect the available local records. Dashboard aggregates are historical design content, not recomputed analytics for the local records.
 
 The revenue chart uses exported vector plot geometry. Its monthly numeric series was unavailable in the layers, so there are no invented monthly values or tooltips. Only Dashboard had a supplied mobile frame; mobile layouts for the other screens are implementation adaptations. Additional dialogs and CRUD behavior are programmed interactions, not extracted Figma prototype interactions. The States screen includes isolated demonstrations.
 
@@ -40,7 +40,7 @@ src/
   components/   reusable UI, workspace layout and forms
   data/         extracted seed and local state persistence
   features/     Dashboard, Contacts, Deals, Tasks, Detail and States
-  styles/       extracted light design tokens
+  styles/       extracted design tokens and responsive UI refinements
   App.tsx       route and dialog coordination
   types.ts      shared TypeScript definitions
   index.css     component and responsive styling
@@ -56,3 +56,7 @@ Dashboard charts animate on desktop and mobile on entry and when scrolled into v
 
 
 
+
+## UI refinements
+
+The workspace uses restrained neutral surfaces, system display typography paired with Inter body text, and tabular numbers. Tasks have compact summaries and responsive rows; mobile Contacts uses a record list with selection, sorting, owner/status details and profile actions. Mobile navigation stays fixed above the safe area, with global search available in the header. Contact follow-ups appear before reference information on mobile. Local sample labels distinguish editable records from historical dashboard aggregates. No new dependencies were added.
